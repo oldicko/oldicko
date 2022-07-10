@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Charlie Dickinson
+- 🏢 I'm the Chief Technology Officer at Sense
+- 🧩 I'm not allowed to write production code, so I write janky Python to solve problems that don't really exist
+- 🔗 Add me at https://www.linkedin.com/in/cpdickinson/
